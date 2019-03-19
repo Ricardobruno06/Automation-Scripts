@@ -16,7 +16,6 @@ then
 fi
 echo "Atualização de pacotes feita com sucesso"
 
-# note que $1 aqui será substituído pelo Bash pelo primeiro argumento passado em linha de comando
 if ! apt-get install $1
 then
     echo "Não foi possível instalar o pacote $1"
