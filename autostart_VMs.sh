@@ -23,15 +23,3 @@ xe vm-start uuid=dd58f7d3-64b7-febb-b33c-f26f63333658
 sleep 60
 #Iniciar guest= Windows-2012-North-Carolina
 xe vm-start uuid=03431271-d0d0-13a6-ef63-78ac323e8720
-
-sleep 60
-#Iniciar guest= Windows-2012-North-Carolina
-xe vm-start uuid=a4008ee0-131f-e6fd-cb69-46f1a8d9178a
-
-sleep 60
-#Iniciar guest= WindowsANM
-xe vm-start uuid=a4008ee0-131f-e6fd-cb69-46f1a8d9178a
-
-sleep 60
-#Iniciar guest= Speedtest
-xe vm-start uuid=f9c2aea3-df9e-3301-e577-66492df33c30
